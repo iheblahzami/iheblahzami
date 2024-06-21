@@ -2,7 +2,7 @@
 <h3 align="center">Cloud Computing & DevOps engineering engineer</h3>
 <img align="right" alt="coding" width"200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=iheblahzami&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)" alt="iheblahzami" /> </p>
+
 
 
 - 💬 Ask me about **DevOps tools , Cloud computing Technologies , Azure Services**
